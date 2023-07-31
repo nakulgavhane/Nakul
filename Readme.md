@@ -4,7 +4,9 @@
 
 ### Website Preview
 #### Home Page
-<img width="1440" alt="Screenshot 2023-07-31 at 11 50 37 PM" src="https://github.com/nakulgavhane/nakul/assets/141052501/7d8a6f09-7d11-4182-8d79-e38764bad793">
+
+<img width="1438" alt="Screenshot 2023-07-31 at 11 53 06 PM" src="https://github.com/nakulgavhane/nakul/assets/141052501/4882723f-cf32-4417-be49-b7ca70e2eff4">
+
 
 #### About Page
 
