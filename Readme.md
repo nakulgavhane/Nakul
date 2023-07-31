@@ -4,16 +4,16 @@
 
 ### Website Preview
 #### Home Page
-
-<img width="1440" alt="Home" src="https://user-images.githubusercontent.com/90498262/200780403-362b24bd-c352-4ddd-9133-507ad95e81f8.png">
+<img width="1440" alt="Screenshot 2023-07-31 at 11 50 37 PM" src="https://github.com/nakulgavhane/nakul/assets/141052501/7d8a6f09-7d11-4182-8d79-e38764bad793">
 
 #### About Page
 
-<img width="1440" alt="About" src="https://user-images.githubusercontent.com/90498262/200780430-8d0f06cc-59d8-4f40-9fcf-e53da376f802.png">
+<img width="1440" alt="Screenshot 2023-07-31 at 11 50 57 PM" src="https://github.com/nakulgavhane/nakul/assets/141052501/50571bdd-4406-4c74-a833-d1177ca874c0">
 
 #### Projects Page
 
-<img width="1440" alt="Project" src="https://user-images.githubusercontent.com/90498262/200780442-9dc9705b-4f14-430b-b6a7-6b83b9edf0e5.png">
+<img width="1440" alt="Screenshot 2023-07-31 at 11 51 09 PM" src="https://github.com/nakulgavhane/nakul/assets/141052501/d041c116-426a-40a1-9d95-51071c7dad58">
+
 
 
 :star: Star me on GitHub — it helps!
